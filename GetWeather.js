@@ -6,7 +6,7 @@
 
 */
 
-var apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+var apiKey = "bd1e1557e34163bec1637d8f07014b96";
 
 // 天気予報データの処理
 
